@@ -1,0 +1,28 @@
+{
+  "run_started_utc_epoch": 1794673960.6897366,
+  "run_duration_seconds": 37.996102809906006,
+  "random_seed": 42,
+  "input_rows": 569,
+  "input_features": 30,
+  "artifacts": [
+    "data/README.md",
+    "models/modelo_final.joblib",
+    "reports/nested_cv_results.csv",
+    "reports/test_results.csv",
+    "reports/threshold_analysis.csv",
+    "reports/model_selection_table.csv",
+    "reports/shap_stability.csv",
+    "reports/final_report.md",
+    "figures/eda_distributions.png",
+    "figures/correlation_heatmap.png",
+    "figures/model_comparison.png",
+    "figures/roc_pr_curves.png",
+    "figures/confusion_matrix.png",
+    "figures/shap_importance.png",
+    "figures/shap_beeswarm.png",
+    "figures/shap_local_explanation.png",
+    "artifacts/final_summary.json",
+    "artifacts/run_manifest.json",
+    "artifacts/consistency_checks.json"
+  ]
+}
