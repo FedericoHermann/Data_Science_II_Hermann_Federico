@@ -1,0 +1,4 @@
+perspective,criterion,selected_method,evidence,defines_selection
+Selección metodológica,"ROC-AUC CV máximo con tolerancia 0.002; desempate por recall, estabilidad y tiempo",LogisticRegression,ROC-AUC=0.995666 ± 0.003872,True
+Umbral operativo,"Costo FN:FP=5:1, recall mínimo=0.95",LogisticRegression,Umbral OOF=0.31,True
+Evaluación final,Prueba aislada; no reabre la selección,LogisticRegression,ROC-AUC=0.995370; PR-AUC=0.993151; FN=2; FP=2,False

@@ -1,0 +1,97 @@
+{
+  "pipeline_compiles": true,
+  "notebook_nbformat": 4,
+  "notebook_cells": 16,
+  "notebook_code_cells_compile": true,
+  "notebook_executed_end_to_end": true,
+  "pytest_passed": "5 passed",
+  "audit_passed": true,
+  "consistency_checks": {
+    "all_required_files_exist": true,
+    "selected_model_matches_report": true,
+    "threshold_matches_report": true,
+    "roc_auc_matches_report": true,
+    "pr_auc_matches_report": true,
+    "false_negatives_match_report": true,
+    "false_positives_match_report": true,
+    "model_reload_matches": true,
+    "test_isolation_preserved": true,
+    "threshold_in_valid_range": true
+  },
+  "requirements_match_runtime": {
+    "numpy": true,
+    "pandas": true,
+    "matplotlib": true,
+    "scikit-learn": true,
+    "xgboost": true,
+    "shap": true,
+    "joblib": true
+  },
+  "images": {
+    "figures/class_distribution.png": {
+      "width": 846,
+      "height": 548,
+      "mode": "RGBA",
+      "valid": true
+    },
+    "figures/confusion_matrix.png": {
+      "width": 637,
+      "height": 549,
+      "mode": "RGBA",
+      "valid": true
+    },
+    "figures/correlation_heatmap.png": {
+      "width": 2238,
+      "height": 2046,
+      "mode": "RGBA",
+      "valid": true
+    },
+    "figures/eda_boxplots.png": {
+      "width": 2196,
+      "height": 1149,
+      "mode": "RGBA",
+      "valid": true
+    },
+    "figures/eda_distributions.png": {
+      "width": 2193,
+      "height": 1149,
+      "mode": "RGBA",
+      "valid": true
+    },
+    "figures/model_comparison.png": {
+      "width": 1446,
+      "height": 848,
+      "mode": "RGBA",
+      "valid": true
+    },
+    "figures/roc_pr_curves.png": {
+      "width": 1746,
+      "height": 698,
+      "mode": "RGBA",
+      "valid": true
+    },
+    "figures/shap_beeswarm.png": {
+      "width": 1138,
+      "height": 1070,
+      "mode": "RGBA",
+      "valid": true
+    },
+    "figures/shap_importance.png": {
+      "width": 1294,
+      "height": 997,
+      "mode": "RGBA",
+      "valid": true
+    },
+    "figures/shap_local_explanation.png": {
+      "width": 1169,
+      "height": 1061,
+      "mode": "RGBA",
+      "valid": true
+    }
+  },
+  "obsolete_root_json_absent": true,
+  "selected_model": "LogisticRegression",
+  "selected_threshold": 0.31,
+  "test_roc_auc": 0.9953703703703703,
+  "test_pr_auc": 0.9931509625126647
+}

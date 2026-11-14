@@ -1,0 +1,12 @@
+{
+  "all_required_files_exist": true,
+  "selected_model_matches_report": true,
+  "threshold_matches_report": true,
+  "roc_auc_matches_report": true,
+  "pr_auc_matches_report": true,
+  "false_negatives_match_report": true,
+  "false_positives_match_report": true,
+  "model_reload_matches": true,
+  "test_isolation_preserved": true,
+  "threshold_in_valid_range": true
+}

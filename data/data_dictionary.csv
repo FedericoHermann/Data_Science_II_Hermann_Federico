@@ -1,0 +1,31 @@
+feature,description
+mean radius,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+mean texture,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+mean perimeter,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+mean area,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+mean smoothness,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+mean compactness,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+mean concavity,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+mean concave points,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+mean symmetry,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+mean fractal dimension,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+radius error,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+texture error,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+perimeter error,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+area error,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+smoothness error,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+compactness error,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+concavity error,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+concave points error,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+symmetry error,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+fractal dimension error,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+worst radius,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+worst texture,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+worst perimeter,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+worst area,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+worst smoothness,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+worst compactness,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+worst concavity,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+worst concave points,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+worst symmetry,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset
+worst fractal dimension,Numeric diagnostic feature from sklearn Breast Cancer Wisconsin dataset

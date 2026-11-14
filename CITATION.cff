@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Proyecto Final Data Science II"
+authors:
+  - family-names: "Hermann"
+    given-names: "Federico"
+version: 1.0.0
+date-released: 2026-10-31
+repository-code: "https://github.com/FedericoHermann/Data_Science_II_Hermann_Federico"
+license: MIT

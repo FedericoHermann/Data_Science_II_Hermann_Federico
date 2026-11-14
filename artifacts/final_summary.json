@@ -1,0 +1,54 @@
+{
+  "problem": {
+    "type": "binary classification",
+    "target": "malignant",
+    "positive_class": 1,
+    "primary_metric": "roc_auc",
+    "false_negative_cost": 5,
+    "false_positive_cost": 1
+  },
+  "data": {
+    "rows": 569,
+    "original_features": 30,
+    "train_rows": 455,
+    "test_rows": 114
+  },
+  "selection": {
+    "selected_model": "LogisticRegression",
+    "selected_threshold": 0.31,
+    "selected_cv_roc_auc_mean": 0.9956656346749225,
+    "selected_cv_roc_auc_std": 0.0038716886444383827,
+    "rule": "ROC-AUC within practical tolerance, then recall, stability and runtime"
+  },
+  "test_metrics": {
+    "model": "LogisticRegression",
+    "threshold": 0.31,
+    "accuracy": 0.9649122807017544,
+    "precision": 0.9523809523809523,
+    "recall": 0.9523809523809523,
+    "f1": 0.9523809523809523,
+    "roc_auc": 0.9953703703703703,
+    "pr_auc": 0.9931509625126647,
+    "true_negatives": 70,
+    "false_positives": 2,
+    "false_negatives": 2,
+    "true_positives": 40,
+    "weighted_error_cost": 12
+  },
+  "xgboost_explanatory_best_params": {
+    "model__learning_rate": 0.08,
+    "model__max_depth": 2,
+    "model__n_estimators": 300,
+    "model__subsample": 0.8
+  },
+  "versions": {
+    "python": "3.12.16",
+    "numpy": "1.26.4",
+    "pandas": "2.2.2",
+    "matplotlib": "3.8.4",
+    "scikit_learn": "1.5.1",
+    "xgboost": "3.1.2",
+    "shap": "0.49.1",
+    "joblib": "1.6.0"
+  }
+}
