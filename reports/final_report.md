@@ -1,4 +1,4 @@
-# Informe final
+# Informe de Pipeline
 
 ## Formulación
 
@@ -28,4 +28,4 @@ SHAP se calculó sobre el XGBoost optimizado como modelo explicativo complementa
 
 ## Limitaciones
 
-Dataset educativo y moderado. Se requiere validación externa, calibración, revisión experta y evaluación de impacto antes de cualquier uso real.
+Dataset educativo y moderado.
