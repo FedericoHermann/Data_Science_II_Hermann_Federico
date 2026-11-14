@@ -1,4 +1,0 @@
-perspective,criterion,selected_method,evidence,defines_selection
-Selección metodológica,Mayor ROC-AUC medio; tolerancia práctica=0.002,LogisticRegression,ROC-AUC CV=0.995831 ± 0.003485,True
-Umbral operativo,Menor costo ponderado con recall >= 0.95,LogisticRegression,Umbral OOF=0.43,True
-Evaluación final,Conjunto de prueba aislado; no reabre la selección,LogisticRegression,ROC-AUC=0.995370; PR-AUC=0.993151; FN=2; FP=1,False

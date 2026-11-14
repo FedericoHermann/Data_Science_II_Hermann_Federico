@@ -1,2 +1,0 @@
-model,threshold,accuracy,precision,recall,f1,roc_auc,pr_auc,true_negatives,false_positives,false_negatives,true_positives,weighted_error_cost
-LogisticRegression,0.43,0.9736842105263158,0.975609756097561,0.9523809523809523,0.963855421686747,0.9953703703703703,0.9931509625126647,71,1,2,40,11
