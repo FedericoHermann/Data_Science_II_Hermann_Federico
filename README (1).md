@@ -2,11 +2,13 @@
 
 ## Clasificación reproducible de casos malignos y benignos
 
-Proyecto final de Machine Learning desarrollado por Federico Hermann. El repositorio implementa un flujo profesional y auditable sobre el dataset Breast Cancer Wisconsin incluido en scikit-learn.
+Proyecto final de Machine Learning desarrollado por Federico Hermann (Comisión #90445). 
+El repositorio implementa un flujo profesional y auditable sobre el dataset Breast Cancer Wisconsin incluido en scikit-learn.
 
 ## Objetivo
 
-Construir un clasificador binario que identifique casos malignos. La clase positiva es `malignant = 1`. La métrica principal es ROC-AUC y la selección operativa también considera recall, falsos negativos y un costo supuesto de 5:1 para falsos negativos frente a falsos positivos.
+Construir un clasificador binario que identifique casos malignos. La clase positiva es `malignant = 1`. La métrica principal es ROC-AUC y la selección operativa también considera recall, 
+falsos negativos y un costo supuesto de 5:1 para falsos negativos frente a falsos positivos.
 
 ## Características del proyecto
 
