@@ -3,7 +3,7 @@
 [![CI](https://github.com/FedericoHermann/Data_Science_II_Hermann_Federico/actions/workflows/ci.yml/badge.svg)](https://github.com/FedericoHermann/Data_Science_II_Hermann_Federico/actions/workflows/ci.yml)
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FedericoHermann/Data_Science_II_Hermann_Federico/blob/main/notebooks/proyecto_final_ml.ipynb)
 
-Proyecto profesional y reproducible de clasificación binaria sobre Breast Cancer Wisconsin, con EDA, ingeniería de atributos, pipelines, optimización, validación cruzada anidada, umbral operativo, SHAP, persistencia y controles de consistencia.
+Proyecto educativo y reproducible de clasificación binaria sobre Breast Cancer Wisconsin, con EDA, ingeniería de atributos, pipelines, optimización, validación cruzada anidada, umbral operativo, SHAP, persistencia y controles de consistencia.
 
 ## Objetivo
 
