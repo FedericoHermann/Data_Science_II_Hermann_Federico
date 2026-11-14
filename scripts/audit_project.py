@@ -24,13 +24,25 @@ required_files = [
     "requirements.txt",
     "notebooks/proyecto_final_ml.ipynb",
     "src/project_pipeline.py",
+
     "artifacts/final_summary.json",
     "artifacts/consistency_checks.json",
+
     "reports/final_report.md",
     "reports/model_selection_table.csv",
     "reports/nested_cv_results.csv",
     "reports/test_results.csv",
     "reports/threshold_analysis.csv",
+    "reports/shap_stability.csv",
+
+    "reports/clinical_descriptive_associations.csv",
+    "reports/morphological_group_analysis.csv",
+    "reports/high_feature_correlations.csv",
+    "reports/bootstrap_metric_intervals.csv",
+    "reports/priority_case_review.csv",
+
+    "figures/clinical_descriptive_associations.png",
+
     "models/modelo_final.joblib"
 ]
 
